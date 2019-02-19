@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VTGO</string>
+    <string name="facebook_app_id">242800719832454</string> <string name="fb_login_protocol_scheme">fb242800719832454</string>
+</resources>

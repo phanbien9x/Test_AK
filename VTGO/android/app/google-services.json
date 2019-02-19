@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "935727556474",
+    "firebase_url": "https://vtgo-6bfa6.firebaseio.com",
+    "project_id": "vtgo-6bfa6",
+    "storage_bucket": "vtgo-6bfa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935727556474:android:d19b68de8535d334",
+        "android_client_info": {
+          "package_name": "com.vtgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935727556474-5avou3bg5oo28aqqouagbv81du0holi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHMS1Z1-faG8dteWxmoXFlqmVTfqRMB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
