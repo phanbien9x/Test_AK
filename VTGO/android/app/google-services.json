@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:935727556474:android:d19b68de8535d334",
+        "mobilesdk_app_id": "1:935727556474:android:7d151175f9758c0a",
         "android_client_info": {
-          "package_name": "com.vtgo"
+          "package_name": "com.vtgo.owner"
         }
       },
       "oauth_client": [

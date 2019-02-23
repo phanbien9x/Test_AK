@@ -8,38 +8,34 @@
   },
   "dependencies": {
     "react": "16.6.3",
-    "react-native": "0.57.8",
+    "react-native": "0.58.5",
     "react-native-datepicker": "^1.7.2",
     "react-native-facebook-account-kit": "^1.1.0",
     "react-native-fbsdk": "^0.8.0",
-    "react-native-fcm": "^16.2.0",
-    "react-native-gesture-handler": "^1.0.12",
+    "react-native-fcm": "^16.2.4",
+    "react-native-gesture-handler": "^1.0.15",
     "react-native-image-picker": "^0.28.0",
     "react-native-joi": "^0.0.5",
     "react-native-keyboard-aware-scroll-view": "^0.8.0",
     "react-native-simple-radio-button": "^2.7.3",
-    "react-native-vector-icons": "^6.1.0",
-    "react-navigation": "^3.0.9",
-    "react-navigation-redux-helpers": "^2.0.9",
-    "react-navigation-transitions": "^1.0.6",
+    "react-native-vector-icons": "^6.3.0",
+    "react-navigation": "^3.3.0",
+    "react-navigation-redux-helpers": "^3.0.0",
+    "react-navigation-transitions": "^1.0.8",
     "react-redux": "^6.0.0",
     "redux": "^4.0.1",
     "redux-act": "^1.7.4",
-    "redux-devtools-extension": "^2.13.7",
+    "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
-    "babel-jest": "23.6.0",
-    "jest": "23.6.0",
-    "metro-react-native-babel-preset": "0.51.1",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.1.0",
+    "jest": "24.1.0",
+    "metro-react-native-babel-preset": "0.52.0",
     "react-test-renderer": "16.6.3"
   },
   "jest": {
     "preset": "react-native"
-  },
-  "rnpm": {
-    "assets": [
-      "./src/assets/fonts/"
-    ]
   }
 }

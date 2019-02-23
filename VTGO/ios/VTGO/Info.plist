@@ -55,14 +55,6 @@
 	</dict>
 	<key>UIAppFonts</key>
 	<array>
-		<string>SFCompactDisplay-Regular.ttf</string>
-		<string>SFCompactDisplay-Semibold.ttf</string>
-		<string>SFUIDisplay-Bold.ttf</string>
-		<string>SFUIDisplay-Medium.ttf</string>
-		<string>SFUIDisplay-Regular.ttf</string>
-		<string>SFUIDisplay-Semibold.ttf</string>
-		<string>SFUIText-Regular.ttf</string>
-		<string>SFUIText-Semibold.ttf</string>
 		<string>AntDesign.ttf</string>
 		<string>Entypo.ttf</string>
 		<string>EvilIcons.ttf</string>
@@ -78,6 +70,14 @@
 		<string>Octicons.ttf</string>
 		<string>SimpleLineIcons.ttf</string>
 		<string>Zocial.ttf</string>
+		<string>SFCompactDisplay-Regular.ttf</string>
+		<string>SFCompactDisplay-Semibold.ttf</string>
+		<string>SFUIDisplay-Bold.ttf</string>
+		<string>SFUIDisplay-Medium.ttf</string>
+		<string>SFUIDisplay-Regular.ttf</string>
+		<string>SFUIDisplay-Semibold.ttf</string>
+		<string>SFUIText-Regular.ttf</string>
+		<string>SFUIText-Semibold.ttf</string>
 	</array>
 </dict>
 </plist>
